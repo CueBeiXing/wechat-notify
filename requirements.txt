@@ -1,0 +1,6 @@
+uiautomation>=2.0
+customtkinter>=5.2
+pystray>=0.19
+keyboard>=0.13
+Pillow>=9.0
+pywin32>=305
